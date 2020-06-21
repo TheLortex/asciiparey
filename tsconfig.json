@@ -8,10 +8,14 @@
       "outDir": "dist",
       "rootDir": "src"
     },
+    "include": [
+        "src/**/*"
+    ],
     "files": [
       "src/index.ts"
     ],
     "exclude": [
+      ".git",
       "node_modules"
     ],
     "compileOnSave": false,

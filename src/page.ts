@@ -25,8 +25,11 @@ export class State {
             this.content = new Map(JSON.parse(storage));
         } else {
             this.content = new Map();
-
-            let result = await fetch("./default/"+page+".ascii");
+            let addr = page;
+            if (page == "") {
+                addr = "index"
+            }
+            let result = await fetch("./default/"+addr+".ascii");
             if (result.ok) {
                 let text = await result.text();
                 this.write(new Coor2D(0, 0), text);
