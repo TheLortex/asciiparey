@@ -1,0 +1,43 @@
+
+
+                                                 ╔═════════════════════════════╗
+                                                 ║                             ║
+                                                 ║HELP:FEATURES AND SHORTCUTS  ║
+                                                 ║                             ║
+                ╔══════════════════════════╗     ╚═════════════════════════════╝
+                ║                          ║ ╔══════════════════════════════════╗
+                ║>FEATURES:                ║ ║                                  ║
+                ║                          ║ ║                                  ║
+                ║ * use # + some text to   ║ ║> Ctrl-C: copy selection.         ║
+                ║ create a new scratchpad  ║ ║> Ctrl-V: paste text on cursor.   ║
+                ║ and make a link to it.   ║ ║                                  ║
+                ║ If the link is removed   ║ ║> Ctrl-Z: go back.                ║
+                ║ the scratchpad can be    ║ ║> Ctrl-Shift-Z: cancel go back.   ║
+                ║ found be re-creating a   ║ ║                                  ║
+                ║ link.   A scratchpad is  ║ ║> Escape: cancel selection and    ║
+                ║ never deleted.           ║ ║  menu.                           ║
+                ║                          ║ ║> Right-click: open menu.         ║
+                ║ * use # alone to make a  ║ ║                                  ║
+                ║  link to the home page.  ║ ║> Click: move cursor location.    ║
+                ║                          ║ ║> Click and drag:                 ║
+                ║ * you can copy blocks    ║ ║  - in select mode, selects the   ║
+                ║   between pages.         ║ ║    zone                          ║
+                ║                          ║ ║  - in box mode, draws a box.     ║
+                ║ * use $ + some text to   ║ ║                                  ║
+                ║ invoke commands.         ║ ║> Arrow keys: move the cursor.    ║
+                ║ They behave as links but ║ ║> Ctrl+Arrow keys: move the cursor║
+                ║ have special effect:     ║ ║        f   a    s   t  e   r     ║
+                ║                          ║ ║                                  ║
+                ║ - $select  ✔️| Selection ║ ║                                  ║
+                ║              | mode      ║ ║                                  ║
+                ║ - $box  	️   | Box mode  ║ ║                                  ║
+                ║                          ║ ║                                  ║
+                ║ - $reset     | Reload    ║ ║                                  ║
+                ║              | sample    ║ ║                                  ║
+                ║              | pages     ║ ║                                  ║
+                ╚══════════════════════════╝ ║                                  ║
+                                             ╚══════════════════════════════════╝
+
+
+                 ==> #next
+
